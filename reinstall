@@ -1,0 +1,2 @@
+#!/bin/bash
+nimble uninstall atcoder && nimble install
